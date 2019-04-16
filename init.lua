@@ -1,4 +1,3 @@
--- require "weather.weather"
 require "sspai.sspai"
 
 hs.hotkey.bind({"cmd", "alt", "ctrl"}, "W", function()
